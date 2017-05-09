@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ico_def_load.png",
+        "source": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\src\\main\\res\\mipmap-xhdpi\\ico_def_load.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\toast_icon.png",
+        "source": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\src\\main\\res\\mipmap-xhdpi\\toast_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\loading.gif",
+        "source": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\src\\main\\res\\mipmap-xhdpi\\loading.gif"
+    },
+    {
+        "merged": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\erorr_net.png",
+        "source": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\src\\main\\res\\mipmap-xhdpi\\erorr_net.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\volley_update.png",
+        "source": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\src\\main\\res\\mipmap-xhdpi\\volley_update.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\icon_error.png",
+        "source": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\src\\main\\res\\mipmap-xhdpi\\icon_error.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\error.png",
+        "source": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\src\\main\\res\\mipmap-xhdpi\\error.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ico_calendar_data.png",
+        "source": "E:\\AndroidStudioGit\\goldTrade\\publiclibrary\\src\\main\\res\\mipmap-xhdpi\\ico_calendar_data.png"
+    }
+]
